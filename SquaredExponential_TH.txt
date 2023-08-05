@@ -1,0 +1,51 @@
+Loading HZ Data Point From hz_cc_sdss.dat
+Loading HZ Data Done ... 
+Loading SN Data From Pantheon+SH0ES.dat
+Loading 1701 SN Data Done. 1424  Used ...
+Loading SN Covariance from Pantheon+SH0ES_STAT+SYS.cov
+Loading SN Cov Matrix Done ...
+Loading f\sigma_8 Data Point From Growth_tableII.txt
+Loading Wiggle f\sigma_8 Data Point From Cij_WiggleZ.txt
+Starting SN+OHD Gaussian Process ...
+
+Optimized hyperparameters:
+theta = [2.64143203e+03 1.75028365e+00]
+
+logp at:
+logp = 7383.011617726532
+
+Optimized hyperparameters:
+theta = [2.64257628e+03 1.75074476e+00]
+
+logp at:
+logp = 7383.0079494807005
+
+Optimized hyperparameters:
+theta = [2.64371885e+03 1.75094054e+00]
+
+logp at:
+logp = 7383.004290876904
+Gaussian SN+OHD Process Finished ...
+Starting f\sigma_8 Gaussian Process ...
+
+Optimized hyperparameters:
+theta = [0.30189701 2.11442631]
+
+logp at:
+logp = -85.3688020150829
+
+Optimized hyperparameters:
+theta = [0.30205896 2.1182804 ]
+
+logp at:
+logp = -85.36880487563306
+Gaussian f\sigma_8  Process Finished ...
+Loading SN Data From Pantheon+SH0ES.dat
+Loading HZ Data Point From hz_cc_sdss.dat
+Loading HZ Data Done ... 
+smooth at: 1.061251251251251
+smooth at: 1.0636126126126124
+smooth at: 1.065973973973974
+smooth at: 1.0683353353353353
+Omega_m=1 at: 2.112057057057057
+Omega_m=1 at: 2.1144184184184183
